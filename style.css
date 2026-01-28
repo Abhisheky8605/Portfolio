@@ -53,8 +53,8 @@ body {
 }
 
 .hero-left img {
-  border-radius: 50%;
-  width: 180px;
+  border-radius: 10%;
+  width: 190px;
 }
 
 .hero-right h1 {
